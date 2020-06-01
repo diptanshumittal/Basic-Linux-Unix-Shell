@@ -1,0 +1,24 @@
+history 
+
+
+
+mkdir dfg 
+history 
+ls 
+ls -l 
+[3~ 
+cd / 
+ls 
+ls 
+pwd 
+cd home 
+pwd 
+history 
+date 
+mkdir abc 
+cd Desktop 
+cd diptanshu/Desktop 
+mkdir abc 
+ls 
+echo a 
+exit 
